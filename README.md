@@ -1,2 +1,2 @@
 # Learning-Rust-Projects
-All of the projects I worked on while learning Rust in 2 months
+I am a month in to learning rust and this is everything ive done so far.
